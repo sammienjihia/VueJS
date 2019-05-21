@@ -27,3 +27,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Resources used 
+https://vuex.vuejs.org/
+https://vuejs.org/v2/guide/routing.html
